@@ -1,0 +1,3 @@
+D:\TOOLS\cmake\bin\cmake.exe -E rm -f CMakeFiles\doublependulum_fsm.dir/objects.a
+D:\TOOLS\mingw\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\mingw64\bin\ar.exe cr CMakeFiles\doublependulum_fsm.dir/objects.a @CMakeFiles\doublependulum_fsm.dir\objects1.rsp
+D:\TOOLS\mingw\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\doublependulum_fsm.dir/objects.a -Wl,--no-whole-archive  -o doublependulum_fsm.exe -Wl,--out-implib,libdoublependulum_fsm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\doublependulum_fsm.dir\linklibs.rsp

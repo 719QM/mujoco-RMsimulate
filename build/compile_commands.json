@@ -1,0 +1,42 @@
+[
+{
+  "directory": "D:/M1/mujoco/vctest/build",
+  "command": "D:\\TOOLS\\mingw\\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\\mingw64\\bin\\g++.exe   @CMakeFiles/ik.dir/includes_CXX.rsp -g   -o CMakeFiles\\ik.dir\\src\\pendulum_ik.cpp.obj -c D:\\M1\\mujoco\\vctest\\src\\pendulum_ik.cpp",
+  "file": "D:/M1/mujoco/vctest/src/pendulum_ik.cpp"
+},
+{
+  "directory": "D:/M1/mujoco/vctest/build",
+  "command": "D:\\TOOLS\\mingw\\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\\mingw64\\bin\\g++.exe   @CMakeFiles/arm.dir/includes_CXX.rsp -g   -o CMakeFiles\\arm.dir\\src\\arm.cpp.obj -c D:\\M1\\mujoco\\vctest\\src\\arm.cpp",
+  "file": "D:/M1/mujoco/vctest/src/arm.cpp"
+},
+{
+  "directory": "D:/M1/mujoco/vctest/build",
+  "command": "D:\\TOOLS\\mingw\\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\\mingw64\\bin\\g++.exe   @CMakeFiles/MuJoCoDemo_1.dir/includes_CXX.rsp -g   -o CMakeFiles\\MuJoCoDemo_1.dir\\src\\main.cpp.obj -c D:\\M1\\mujoco\\vctest\\src\\main.cpp",
+  "file": "D:/M1/mujoco/vctest/src/main.cpp"
+},
+{
+  "directory": "D:/M1/mujoco/vctest/build",
+  "command": "D:\\TOOLS\\mingw\\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\\mingw64\\bin\\g++.exe   @CMakeFiles/doublependulum_fsm.dir/includes_CXX.rsp -g   -o CMakeFiles\\doublependulum_fsm.dir\\src\\doublependulum_fsm.cpp.obj -c D:\\M1\\mujoco\\vctest\\src\\doublependulum_fsm.cpp",
+  "file": "D:/M1/mujoco/vctest/src/doublependulum_fsm.cpp"
+},
+{
+  "directory": "D:/M1/mujoco/vctest/build",
+  "command": "D:\\TOOLS\\mingw\\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\\mingw64\\bin\\g++.exe   @CMakeFiles/pendulum.dir/includes_CXX.rsp -g   -o CMakeFiles\\pendulum.dir\\src\\pendulum.cpp.obj -c D:\\M1\\mujoco\\vctest\\src\\pendulum.cpp",
+  "file": "D:/M1/mujoco/vctest/src/pendulum.cpp"
+},
+{
+  "directory": "D:/M1/mujoco/vctest/build",
+  "command": "D:\\TOOLS\\mingw\\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\\mingw64\\bin\\g++.exe   @CMakeFiles/doublependulum.dir/includes_CXX.rsp -g   -o CMakeFiles\\doublependulum.dir\\src\\doublependulum.cpp.obj -c D:\\M1\\mujoco\\vctest\\src\\doublependulum.cpp",
+  "file": "D:/M1/mujoco/vctest/src/doublependulum.cpp"
+},
+{
+  "directory": "D:/M1/mujoco/vctest/build",
+  "command": "D:\\TOOLS\\mingw\\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\\mingw64\\bin\\g++.exe   @CMakeFiles/doublependulum_ik.dir/includes_CXX.rsp -g   -o CMakeFiles\\doublependulum_ik.dir\\src\\doublependulum_ik.cpp.obj -c D:\\M1\\mujoco\\vctest\\src\\doublependulum_ik.cpp",
+  "file": "D:/M1/mujoco/vctest/src/doublependulum_ik.cpp"
+},
+{
+  "directory": "D:/M1/mujoco/vctest/build",
+  "command": "D:\\TOOLS\\mingw\\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\\mingw64\\bin\\g++.exe   @CMakeFiles/hybrid_pendulum.dir/includes_CXX.rsp -g   -o CMakeFiles\\hybrid_pendulum.dir\\src\\hybrid_pendulum.cpp.obj -c D:\\M1\\mujoco\\vctest\\src\\hybrid_pendulum.cpp",
+  "file": "D:/M1/mujoco/vctest/src/hybrid_pendulum.cpp"
+}
+]

@@ -1,0 +1,3 @@
+D:\TOOLS\cmake\bin\cmake.exe -E rm -f CMakeFiles\dbpendulum_lqr.dir/objects.a
+D:\TOOLS\mingw\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\mingw64\bin\ar.exe cr CMakeFiles\dbpendulum_lqr.dir/objects.a @CMakeFiles\dbpendulum_lqr.dir\objects1.rsp
+D:\TOOLS\mingw\x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\dbpendulum_lqr.dir/objects.a -Wl,--no-whole-archive  -o dbpendulum_lqr.exe -Wl,--out-implib,libdbpendulum_lqr.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dbpendulum_lqr.dir\linklibs.rsp

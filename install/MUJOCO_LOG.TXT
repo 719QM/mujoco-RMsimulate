@@ -1,0 +1,77 @@
+Thu Jan 18 10:48:55 2024
+WARNING: mju_openResource: unknown file '.\demo_1.xml'
+
+Thu Jan 18 10:48:55 2024
+ERROR: Load model error: mjParseXML: could not open file '.\demo_1.xml'
+
+Sat Jan 20 10:28:24 2024
+ERROR: Load model error: XML parse error 14:
+Error=XML_ERROR_MISMATCHED_ELEMENT ErrorID=14 (0xe) Line number=2: XMLElement name=option
+
+
+Sat Jan 20 10:28:35 2024
+ERROR: Load model error: XML Error: invalid keyword: 'enabled'
+Element 'flag', line 3
+
+
+Wed Jan 31 10:09:25 2024
+ERROR: Load model error: Error: resource not found via provider or OS filesystem: '../model/../meshes/base_link.STL'
+
+Wed Jan 31 10:10:47 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 0.0120.
+
+Wed Jan 31 10:11:33 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0120.
+
+Wed Jan 31 10:51:23 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 4. The simulation is unstable. Time = 0.0060.
+
+Wed Jan 31 10:55:50 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0010.
+
+Wed Jan 31 10:57:09 2024
+WARNING: Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 0.0070.
+
+Wed Jan 31 11:39:20 2024
+WARNING: Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 0.0020.
+
+Fri Jun  7 10:53:25 2024
+ERROR: Load model error: Error: unrecognized name of sensorized object in sensor '' (id = 0)
+Object name = , id = 0, line = 26, column = -1
+
+Tue Jun 11 15:09:21 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 2. The simulation is unstable. Time = 0.0070.
+
+Tue Jun 11 15:11:19 2024
+ERROR: Load model error: Error: repeated name 'joint1' in actuator
+
+Tue Jun 11 15:20:34 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0010.
+
+Tue Jun 11 15:20:34 2024
+WARNING: Nan, Inf or huge value in QVEL at DOF 4. The simulation is unstable. Time = 0.0010.
+
+Tue Jun 11 15:21:09 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0010.
+
+Tue Jun 11 16:14:55 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0010.
+
+Tue Jun 11 16:39:47 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 4. The simulation is unstable. Time = 0.0040.
+
+Tue Jun 11 16:46:20 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 0.0010.
+
+Tue Jun 11 16:47:59 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 0.0010.
+
+Wed Jun 12 17:15:40 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 0.0080.
+
+Thu Jun 13 19:36:52 2024
+WARNING: mju_openResource: unknown file '../data/../model/doublependulum_lqr.xml'
+
+Thu Jun 13 19:36:52 2024
+ERROR: Load model error: mjParseXML: could not open file '../data/../model/doublependulum_lqr.xml'
+

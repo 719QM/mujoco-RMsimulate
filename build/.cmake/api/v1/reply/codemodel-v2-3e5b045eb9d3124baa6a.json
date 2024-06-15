@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "vctest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MuJoCoDemo_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MuJoCoDemo_1-Debug-d4e12e7b810949e084f4.json",
+					"name" : "MuJoCoDemo_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "arm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arm-Debug-7912e969d6b75e8be44d.json",
+					"name" : "arm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "doublependulum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-doublependulum-Debug-2160bacaefe14e691ab7.json",
+					"name" : "doublependulum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "doublependulum_fsm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-doublependulum_fsm-Debug-6014912e16de102cd9de.json",
+					"name" : "doublependulum_fsm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "doublependulum_ik::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-doublependulum_ik-Debug-152853402ff4f966cb2e.json",
+					"name" : "doublependulum_ik",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hybrid_pendulum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hybrid_pendulum-Debug-3aba47d0a26d92b1d5c6.json",
+					"name" : "hybrid_pendulum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ik::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ik-Debug-5cea4b3dab6a0e83fd85.json",
+					"name" : "ik",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pendulum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pendulum-Debug-efc1183490607c24805a.json",
+					"name" : "pendulum",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/M1/mujoco/vctest/build",
+		"source" : "D:/M1/mujoco/vctest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

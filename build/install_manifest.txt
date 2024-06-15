@@ -1,0 +1,11 @@
+D:/M1/mujoco/vctest/install/mujoco.dll
+D:/M1/mujoco/vctest/install/glfw3.dll
+D:/M1/mujoco/vctest/install/ball.xml
+D:/M1/mujoco/vctest/install/MuJoCoDemo_1.exe
+D:/M1/mujoco/vctest/install/pendulum.exe
+D:/M1/mujoco/vctest/install/doublependulum.exe
+D:/M1/mujoco/vctest/install/doublependulum_fsm.exe
+D:/M1/mujoco/vctest/install/doublependulum_ik.exe
+D:/M1/mujoco/vctest/install/hybrid_pendulum.exe
+D:/M1/mujoco/vctest/install/arm.exe
+D:/M1/mujoco/vctest/install/ik.exe
